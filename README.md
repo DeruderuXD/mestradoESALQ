@@ -3,7 +3,7 @@
 Bem vindo! 
 
 
-Esse repositório contém dados da minha pesquisa de mestrado.
+Esse repositório contém dados obtidos de fontes abertas usados na pesquisa de mestrado: "PROJEÇAO E MODELAGEM DE EMISSÕES DE GASES DE EFEITO ESTUFA NO BRASIL: CENÁRIOS DE GESTÃO DE RESÍDUOS SÓLIDOS ATÉ 2050." 
 
 Files: 
 Bases de dados brutos;
