@@ -1,3 +1,16 @@
-Bases de dados 
+Bases de dados - método 
 
-new-folder/
+Site: https://app4.cidades.gov.br/serieHistorica/# 
+Clicar em “Resíduos Sólidos”
+O sistema de consulta será aberto, nos filtros do sistema selecionar as opções: 
+ano de referência > clicar em “marcar todos” 
+Região > selecionar uma das macrorregiões do brasil (eé possível extrair uma base por macrorregião com as informações completas) 
+Estado > clicar em “marcar todos” 
+Tipo de unidade > clicar em “marcar todos” 
+Operador > clicar em “marcar todos”
+Unidades:  clicar em “marcar todos”
+
+Neste estudo: 
+Foram extraídas bases de dados para cada uma das macrorregiões brasileiras. 
+Data da extração: março de 2025.
+
